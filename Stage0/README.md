@@ -1,6 +1,6 @@
 # Pong Game Class Diagram
-![Alt Text](/Stage0/PongGameClassDiagram.png)
 
+![Alt Text](/Stage0/PongGameClassDiagram.png)
 
 # The Essentials
 
