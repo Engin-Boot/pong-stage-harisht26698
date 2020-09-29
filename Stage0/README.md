@@ -1,3 +1,7 @@
+# Pong Game Class Diagram
+![Alt Text](/Stage0/PongGameClassDiagram.png)
+
+
 # The Essentials
 
 1. Breakdown the problem into modules. Name each module
