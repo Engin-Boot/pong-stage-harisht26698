@@ -2,7 +2,7 @@
 
 ![Alt Text](/Stage0/PongGameClassDiagram.png)
 
-# The Essentials
+## The Essentials
 
 1. Breakdown the problem into modules. Name each module
 1. Rename the 'give-me-a-name...' files to reflect the module names.
